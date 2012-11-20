@@ -1,0 +1,5 @@
+#!/bin/bash
+
+./ssdp.py &
+bobo -f announce.py
+ 
